@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Shop": {
+      "commandName": "Project",
+      "commandLineArgs": "work-data.json"
+    }
+  }
+}
